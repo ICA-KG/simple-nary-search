@@ -1,9 +1,9 @@
 # Simple N-ary Search
 N-ary Semantic Search In Memory
 
--[x] BM25 (Retrieve)
--[x] Semantic Search (Re-Rank)
--[x] Multi-Lingual
+- [x] BM25 (Retrieve)
+- [x] Semantic Search (Re-Rank)
+- [x] Multi-Lingual Support
 
 ## Requirements
 - python 3
